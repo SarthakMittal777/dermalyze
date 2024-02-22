@@ -21,3 +21,4 @@ Dermalyze is a cutting-edge skincare analysis tool designed to help users make i
 ## Google Slide Presentation
 
 <iframe src="https://docs.google.com/presentation/d/1IJ9NzgKDqzmQ9_xjSBloY4i8Yvec0u4LQ4pJ7_dKgrM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
