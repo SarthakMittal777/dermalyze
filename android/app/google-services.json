@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "929951003693",
+    "project_id": "sample-task-app-y8buax",
+    "storage_bucket": "sample-task-app-y8buax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929951003693:android:88f72e837ce68761a034a4",
+        "android_client_info": {
+          "package_name": "com.mycompany.sampletaskapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929951003693-gmdf8vjt14ts45r4bb7bm4dsicq9n1g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBamf_B9g3WcfDEXL2czL3by7NFQnNaAJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929951003693-gmdf8vjt14ts45r4bb7bm4dsicq9n1g8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "929951003693-q5i6h2ddc9kuvso1m2n7gv1ksv0jlvub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.sampletaskapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
