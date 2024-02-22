@@ -18,7 +18,13 @@ Dermalyze is a cutting-edge skincare analysis tool designed to help users make i
 - **Customer Support**: Provide customer support channels for users to reach out with questions, concerns, or technical issues.
 - **Community Engagement**: Foster community engagement through forums, discussion boards, or social media integration for users to connect and share skincare tips and experiences.
 
+
 ## Google Slide Presentation
 
-<iframe src="https://docs.google.com/presentation/d/1IJ9NzgKDqzmQ9_xjSBloY4i8Yvec0u4LQ4pJ7_dKgrM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+[View Presentation](https://docs.google.com/presentation/d/1IJ9NzgKDqzmQ9_xjSBloY4i8Yvec0u4LQ4pJ7_dKgrM/edit?usp=sharing)
+
+
+## Download Apk File
+
+[Download Now](https://drive.google.com/file/d/1BIfxae8GfGygySKoN8AOqjKYIRTamMuN/view?usp=sharing)
 
